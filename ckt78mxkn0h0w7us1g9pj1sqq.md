@@ -157,7 +157,7 @@ Hayyyy, you made it till the end. I hope you enjoyed working with animated Conta
 <iframe src="https://giphy.com/embed/ILV8xetoPJO92" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thread-discussion-august-ILV8xetoPJO92">via GIPHY</a></p>
 
 ## Little Bit About Me🧑‍💻🧑‍💻🧑‍💻
-Hey developers, I'm Monikinderjit Singh, working on Flutter for more than a year now. My interest in cloud technology is fueled by my need to learn more about it.  I am currently new to hashnode (this is my second blog post). I would appreciate you giving it a like if you find it interesting and leaving a comment if you have a better solution for this topic. It would be awesome if you could give me some feedback on improving my content.
+Hey developers, I'm Monikinderjit Singh, working on Flutter for more than a year now. My interest in cloud technology is fueled by my need to learn more about it. I would appreciate you giving it a like if you find it interesting and leaving a comment if you have a better solution for this topic. It would be awesome if you could give me some feedback on improving my content.
 You can connect with me on my [Twitter](https://twitter.com/intent/follow?screen_name=monikIJS), [Github](https://github.com/Monik09) and  [LinkedIn](https://www.linkedin.com/in/monikinderjit-singh/) .  
 
 

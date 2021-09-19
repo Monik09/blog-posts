@@ -6,10 +6,10 @@ So today I will be discussing what are the reasons you should think before using
 
 ### Table of Contents
 
-- How Flutter Web works
-- Performance
-- SEO
-- When you can use Flutter Web?
+- [How Flutter Web works](#how-flutter-web-works)
+- [Performance](#performance)
+- [SEO](#seo)
+- [When you can use Flutter Web?](#when-you-can-use-flutter-web)
 
 
 ### How Flutter Web works
